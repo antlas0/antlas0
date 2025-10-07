@@ -2,7 +2,7 @@
 
 I am **Antoine**, currently working as a Software Architect, driven by Open Source software and mindset.
 <br />
-You will find here a few of my software experimentations, designed and built in my remaining spare time ⏲️.
+You will find here a few of my software experimentations, designed and built when I can squeeze in the time ⏲️.
 <br />
 <br />
 Happy reading !
