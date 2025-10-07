@@ -1,4 +1,7 @@
-## Hi 👋
+## Hello World(s)
+
+I am Antoine, working as a Software Architect, driven by Open Source software and mindset. You may find here a few of my software experimentations and developments.
+
 
 <!--
 **antlas0/antlas0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
