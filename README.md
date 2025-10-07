@@ -1,13 +1,19 @@
-## Hello World(s)
+## 🌍 Hello World(s) 🪐
 
-<p align="center">
+I am **Antoine**, currently working as a Software Architect, driven by Open Source software and mindset.
+<br />
+You will find here a few of my software experimentations, designed and built in my remaining spare time ⏲️.
+<br />
+<br />
+Happy reading !
+<br />
+<br />
+<details>
+<summary>About me</summary>
+<br />
+<p align="left">
   • <a href="https://antlas.art">Blog (fr)</a> •
 </p>
-
-I am **Antoine**, working as a Software Architect, driven by Open Source Software and mindset. You will find here a few of my software experimentations. 
-
-<details>
-<summary>Technical overview</summary>
 
 ##### Vision
 ![Architecture](https://img.shields.io/badge/-Architecture-3B4252?style=flat&logo=architecture&logoColor=EBCB8B)
@@ -36,12 +42,13 @@ I am **Antoine**, working as a Software Architect, driven by Open Source Softwar
 ![Jenkins Badge](https://img.shields.io/badge/-Jenkins-3B4252?style=flat&logo=jenkins&logoColor=BF616A)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-3B4252?style=flat&logo=gitlab&logoColor=BF616A)
 ![Github](https://img.shields.io/badge/-Github-3B4252?style=flat&logo=github&logoColor=BF616A)
-![Artifactory](https://img.shields.io/badge/-Artifactory-3B4252?style=flat&logo=artifactory&logoColor=BF616A)
 ![Docker Badge](https://img.shields.io/badge/-Docker-3B4252?style=flat&logo=docker&logoColor=B48EAD)
 ![SL](https://img.shields.io/badge/-ShiftLeft-3B4252?style=flat&logoColor=D08770)
 ![CR](https://img.shields.io/badge/-CodeReview-3B4252?style=flat&logoColor=D08770)
 
 ##### Other
+![Linux](https://img.shields.io/badge/-Linux-3B4252?style=flat&logo=rf&logoColor=BF616A)
+![Kernel](https://img.shields.io/badge/-Kernel-3B4252?style=flat&logo=rf&logoColor=BF616A)
 ![RT](https://img.shields.io/badge/-RealTime-3B4252?style=flat&logo=rf&logoColor=BF616A)
 ![RF](https://img.shields.io/badge/-RadioFrequencies-3B4252?style=flat&logo=rf&logoColor=BF616A)
 </details>
