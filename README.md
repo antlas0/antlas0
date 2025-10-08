@@ -25,4 +25,6 @@ Happy reading !
 ![Opensource](https://img.shields.io/badge/-Opensource-3B4252?style=flat&logo=statistics&logoColor=EBCB8B)
 ![Linux](https://img.shields.io/badge/-Linux-3B4252?style=flat&logo=statistics&logoColor=EBCB8B)
 ![RadioFrequencies](https://img.shields.io/badge/-RadioFrequencies-3B4252?style=flat&logo=statistics&logoColor=EBCB8B)
+![HAMRadio](https://img.shields.io/badge/-HAMRadio-3B4252?style=flat&logo=statistics&logoColor=EBCB8B)
 ![Statistics](https://img.shields.io/badge/-Statistics-3B4252?style=flat&logo=statistics&logoColor=EBCB8B)
+
