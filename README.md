@@ -15,7 +15,7 @@ Happy reading !
   • <a href="https://antlas.art">Blog (fr)</a> •
 </p>
 
-#### Topics of interests
+#### Topics of interest
 ![Architecture](https://img.shields.io/badge/-Architecture-3B4252?style=flat&logo=architecture&logoColor=EBCB8B)
 ![Networking](https://img.shields.io/badge/-Networking-3B4252?style=flat&logo=architecture&logoColor=EBCB8B)
 ![Cloud](https://img.shields.io/badge/-Cloud-3B4252?style=flat&logo=architecture&logoColor=EBCB8B)
