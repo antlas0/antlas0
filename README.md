@@ -1,4 +1,4 @@
-## 🌍 Hello World(s) 🪐
+## ⛰️ Hello World(s) 🪐
 
 I am Antoine, currently working as a Software Architect, inspired by Open Source software.
 <br />
