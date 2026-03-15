@@ -6,11 +6,4 @@ You will find here a few of my software experimentations, designed and built whe
 <br />
 <br />
 Happy reading !
-<br />
-<br />
-<details>
-<summary>About me</summary>
-<br />
-<p align="left">
-  • <a href="https://antlas.art">Blog (fr)</a> •
-</p>
+
